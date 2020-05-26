@@ -1,0 +1,8 @@
+Cant play anim at once
+Ex: climb + Walk = anim wont play for climb
+
+Player still can ground jump
+if i add No Friction player will lost gravity and auto walk
+
+Normal issue that still occuring.
+when game start usual error start which jump gravity can be 0 but its auto fixed
