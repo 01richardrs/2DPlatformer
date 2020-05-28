@@ -1,6 +1,6 @@
 # Unity Based Simple 2D Platformer Game
 <p align="center">
-<img alt="Main Screen" src="">
+<img alt="Main Screen" src="https://github.com/01richardrs/2DPlatformer/blob/master/Preview/Main.jpg">
 </p>
 More Pictures and Video Preview provided below.
 
@@ -15,14 +15,14 @@ This Game is Made in Week 4 Of the lesson.
 - One demo Map
 
 # Video Preview :
-Video Preview Link : 
+Video Preview Link : https://github.com/01richardrs/2DPlatformer/blob/master/Preview/2DPreview.mkv
 
 # Screen Preview :
 <p align="center">
-<img alt="Simulation Screen" src="">
+<img alt="Simulation Screen" src="https://github.com/01richardrs/2DPlatformer/blob/master/Preview/2.jpg">
 </p>
 <p align="center">
-<img alt="Simulation Screen" src="">
+<img alt="Simulation Screen" src="https://github.com/01richardrs/2DPlatformer/blob/master/Preview/3.jpg">
 </p>
 
 # How to Try :
